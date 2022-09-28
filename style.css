@@ -1,0 +1,1999 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    color: #FFFFFF;
+}
+
+body{
+    position: relative;
+width: 1400px;
+height: 4417px;
+
+background: #000000;
+}
+.details{
+    color: white;
+  padding-left: 5px;
+  margin-top: 2px;
+}
+header{
+    width:110%;
+height: 28px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 600;
+font-size: 17.9701px;
+line-height: 28px;
+/* identical to box height */
+background: #F61354;
+
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 6;
+flex-grow: 0;
+}
+
+header nav ul{
+    display: flex;
+    justify-content: space-between;
+}
+.ipx{
+   margin:116px 1297px 67.34px 99.4px;
+}
+.ipx sup{
+    color:#F61354; ;
+}
+
+.coverImage img{
+   margin-top :67.34;
+   margin-right: 66px;
+   margin-left: 93px;
+}
+.commonshare{
+    position: absolute;
+width: 600px;
+height: 0px;
+left: 692px;
+top: 331px;
+
+opacity: 0.2;
+border: 1px solid #FFFFFF;
+}
+.line{
+    position: absolute;
+width: 600px;
+height: 0px;
+left: 692px;
+top: 331px;
+
+opacity: 0.2;
+border: 1px solid #FFFFFF;
+}
+.gli{
+    position: absolute;
+width: 43px;
+height: 12px;
+left: 693px;
+top: 366.44px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 12px;
+/* identical to box height, or 86% */
+
+letter-spacing: 1px;
+
+color: #FFFFFF;
+
+}
+.ownedBy{
+    position: absolute;
+width: 63px;
+height: 12px;
+left: 830px;
+top: 345.44px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 12px;
+/* identical to box height, or 100% */
+
+letter-spacing: 1px;
+
+color: #FFFFFF;
+
+opacity: 0.5;
+}
+.rahul{
+    position: absolute;
+width: 71px;
+height: 12px;
+left: 830px;
+top: 366.44px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 12px;
+/* identical to box height, or 86% */
+
+letter-spacing: 1px;
+
+color: #FFFFFF;
+
+}
+.follownft{
+    position: absolute;
+width: 90px;
+height: 12px;
+left: 1028px;
+top: 358px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 12px;
+/* identical to box height, or 86% */
+
+letter-spacing: 1px;
+
+color: #FFFFFF;
+
+opacity: 0.7;
+}
+
+.saleEnds{
+    position: absolute;
+width: 467px;
+height: 12px;
+left: 728px;
+top: 468px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 12px;
+/* identical to box height, or 67% */
+
+letter-spacing: 1px;
+color: #FFFFFF;
+}
+.lineP{
+    position: absolute;
+width: 600px;
+height: 0px;
+left: 692px;
+top: 504px;
+
+opacity: 0.2;
+border: 1px solid #FFFFFF;
+}
+.rectangle{
+    position: absolute;
+width: 599px;
+height: 492px;
+left: 693px;
+top: 445px;
+
+opacity: 0.5;
+border: 1px solid #FFFFFF;
+}
+.purchaseDetais{
+    position: absolute;
+width: 600px;
+height: 492px;
+left: 692px;
+top: 445px;
+
+}
+
+
+.price5{
+    position: absolute;
+width: 68px;
+height: 52px;
+left: 728px;
+top: 546px;
+
+font-family: 'Zuume';
+font-style: normal;
+font-weight: 700;
+font-size: 46px;
+line-height: 52px;
+/* identical to box height, or 113% */
+
+
+color: #FFFFFF;
+
+}
+.currPrice{
+    position: absolute;
+width: 95px;
+height: 12px;
+left: 728px;
+top: 526px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 12px;
+/* identical to box height, or 86% */
+
+letter-spacing: 1px;
+
+color: #FFFFFF;
+
+opacity: 0.7;
+}
+.units{
+    position: absolute;
+width: 106px;
+height: 12px;
+left: 965px;
+top: 528px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 12px;
+/* identical to box height, or 86% */
+
+letter-spacing: 1px;
+
+color: #FFFFFF;
+
+opacity: 0.7;
+}
+.units5{
+    position: absolute;
+width: 35px;
+height: 52px;
+left: 972px;
+top: 548px;
+
+font-family: 'Zuume';
+font-style: normal;
+font-weight: 700;
+font-size: 46px;
+line-height: 52px;
+/* identical to box height, or 113% */
+
+
+color: #FFFFFF;
+}
+.select{
+    position: absolute;
+width: 204px;
+height: 12px;
+left: 728px;
+top: 657px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 12px;
+/* identical to box height, or 86% */
+
+letter-spacing: 1px;
+
+color: #FFFFFF;
+
+opacity: 0.7;
+}
+
+.check{
+    position: absolute;
+width: 16px;
+height: 16px;
+left: 1031px;
+top: 677px;
+
+background:rgb(217, 0, 255);
+border-radius: 40px;
+}
+.investment{
+    position: absolute;
+width: 114px;
+height: 12px;
+left: 693px;
+top: 233.44px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 12px;
+/* identical to box height, or 100% */
+
+letter-spacing: 1px;
+
+color: #FFFFFF;
+
+opacity: 0.5;
+}
+.jaima{
+    position: absolute;
+width: 600px;
+height: 82px;
+left: 693px;
+top: 233px;
+
+font-family: 'Zuume';
+font-style: normal;
+font-weight: 70;
+font-size: 46px;
+line-height: 81px;
+/* identical to box height, or 177% */
+
+letter-spacing: 6.78641px;
+
+color: #FFFFFF;
+
+}
+.project{
+    position: absolute;
+width: 46px;
+height: 12px;
+left: 693px;
+top: 345.44px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 12px;
+/* identical to box height, or 100% */
+
+letter-spacing: 1px;
+
+color: #FFFFFF;
+
+opacity: 0.5;
+}
+.glitch{
+    position: absolute;
+width: 43px;
+height: 12px;
+left: 693px;
+top: 366.44px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 12px;
+/* identical to box height, or 86% */
+
+letter-spacing: 1px;
+
+color: #FFFFFF;
+}
+.stripe{
+    position: absolute;
+width: 106.97px;
+height: 48px;
+left: 728px;
+top: 683px;
+
+background: rgb(40, 6, 6);
+border-radius: 10px;
+}
+.paypal{
+    
+    position: absolute;
+    width: 101.33px;
+    height: 32px;
+    left: 914px;
+    top: 691px;
+    
+    background:rgb(40, 6, 6);
+    border-radius: 10px;
+}
+.box{
+    box-sizing: border-box;
+
+position: absolute;
+width: 149.14px;
+height: 48px;
+left: 890px;
+top: 683px;
+
+background: rgba(255, 31, 31, 0.09);
+border-radius: 10px
+}
+.rectanglediv{
+    position: absolute;
+width: 16px;
+height: 16px;
+left: 728px;
+top: 803px;
+
+background: #D9D9D9;
+border-radius: 4px;
+}
+.riskU{
+    position: absolute;
+width: 431px;
+height: 12px;
+left: 754px;
+top: 805px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 12px;
+/* identical to box height, or 86% */
+
+letter-spacing: 1px;
+
+color: #FFFFFF;
+
+opacity: 0.7;
+}
+.buyNow{
+    position: absolute;
+    width: 174px;
+    height: 56px;
+    left: 728px;
+    top: 841px;
+    
+    /* Primary Gradient */
+    
+    background: radial-gradient(86.07% 145.35% at 28.05% 86.07%, #3E67FF 0%, #E47298 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+    border-radius: 10px;
+}
+
+.requestbtn{
+    position: absolute;
+width: 131px;
+height: 25px;
+left: 944px;
+top: 857px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+box-sizing: border-box;
+
+position: absolute;
+width: 174px;
+height: 56px;
+left: 922px;
+top: 841px;
+
+background: rgba(255, 31, 31, 0.11);
+border-radius: 10px;
+
+}
+.bigb{
+    position: absolute;
+width: 1197px;
+height: 515px;
+left: 95px;
+top: 1002px;
+
+opacity: 0.5;
+border: 1px solid #FFFFFF;
+}
+.bigbText{
+    position: absolute;
+width: 933.22px;
+height: 23.5px;
+left: 164.94px;
+top: 1027.04px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 12px;
+/* or 67% */
+
+letter-spacing: 1px;
+
+color: #FFFFFF;
+}
+.bigbLine{
+    position: absolute;
+width: 1199px;
+height: 0px;
+left: 93px;
+top: 1061.53px;
+
+opacity: 0.2;
+border: 1px solid #FFFFFF;
+}
+
+.bigbQue{
+    position: absolute;
+height: 28px;
+left: 11.32%;
+right: 56.29%;
+top: calc(50% - 28px/2 - 1104.5px);
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 140%;
+/* identical to box height, or 28px */
+
+
+color: #FFFFFF;
+}
+.bigbContent{
+    position: absolute;
+    height: 78px;
+    left: 11.32%;
+    right: 30.84%;
+    top: calc(50% - 78px/2 - 1039.5px);
+    
+    font-family: 'Visby CF';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 144%;
+    /* or 26px */
+    
+    
+    color: #FFFFFF;
+    
+    opacity: 0.7;
+}
+.bigbneg{
+    position: absolute;
+height: 90px;
+left: 80.62%;
+right: 17.29%;
+top: calc(50% - 90px/2 - 1101.5px);
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 300;
+font-size: 58px;
+line-height: 90px;
+
+color: #FFFFFF;
+
+}
+.bigbLine2{
+
+}
+.bigbContent2{
+    position: absolute;
+height: 56px;
+left: 11.32%;
+right: 31.97%;
+top: calc(50% - 56px/2 - 899.5px);
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 140%;
+/* or 28px */
+
+
+color: #FFFFFF;
+}
+.bigbLine2{
+    position: absolute;
+width: 1063px;
+height: 0px;
+left: 163px;
+top: 1248px;
+
+border: 1px solid rgba(255, 255, 255, 0.5);
+}
+.bigbLine3{
+    position: absolute;
+    width: 1063px;
+    height: 0px;
+    left: 163px;
+    top: 1376px;
+    
+    border: 1px solid rgba(255, 255, 255, 0.5);
+}
+.bigbContent3{
+    position: absolute;
+height: 56px;
+left: 11.32%;
+right: 31.97%;
+top: calc(50% - 56px/2 - 771.5px);
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 140%;
+/* or 28px */
+
+
+color: #FFFFFF;
+
+}
+.bigb2{
+    position: absolute;
+width: 1197px;
+height: 375px;
+left: 95px;
+top: 1578px;
+
+opacity: 0.5;
+border: 1px solid #FFFFFF;
+}
+.bigb2Cont1{
+    position: absolute;
+width: 933.22px;
+height: 23.5px;
+left: 164.94px;
+top: 1603.04px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 12px;
+/* or 67% */
+
+letter-spacing: 1px;
+
+color: #FFFFFF;
+
+}
+.bigbLine2{
+    position: absolute;
+width: 1199px;
+height: 0px;
+left: 93px;
+top: 1637.53px;
+
+opacity: 0.2;
+border: 1px solid #FFFFFF;
+}
+.bigb2Que{
+    position: absolute;
+height: 28px;
+left: 11.32%;
+right: 56.29%;
+top: calc(50% - 28px/2 - 528.5px);
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 140%;
+/* identical to box height, or 28px */
+
+
+color: #FFFFFF;
+
+}
+.bigb2Content{
+    position: absolute;
+    height: 78px;
+    left: 11.32%;
+    right: 30.84%;
+    top: calc(50% - 78px/2 - 463.5px);
+    
+    font-family: 'Visby CF';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 144%;
+    /* or 26px */
+    
+    
+    color: #FFFFFF;
+    
+    opacity: 0.7;
+}
+
+.bigb2Line2{
+    position: absolute;
+width: 1063px;
+height: 0px;
+left: 163px;
+top: 1824px;
+
+border: 1px solid rgba(255, 255, 255, 0.5);
+}
+.bigbPlus{
+    position: absolute;
+height: 90px;
+left: 80.62%;
+right: 17.21%;
+top: calc(50% - 90px/2 - 897.5px);
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 300;
+font-size: 58px;
+line-height: 90px;
+
+color: #FFFFFF;
+
+}
+.bigbPlus2{
+    position: absolute;
+    height: 90px;
+    left: 80.62%;
+    right: 17.21%;
+    top: calc(50% - 90px/2 - 758.5px);
+    
+    font-family: 'Visby CF';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 58px;
+    line-height: 90px;
+    
+    color: #FFFFFF;
+    
+
+}
+.bigb2Content2{
+    position: absolute;
+height: 56px;
+left: 11.32%;
+right: 31.97%;
+top: calc(50% - 56px/2 - 323.5px);
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 140%;
+/* or 28px */
+
+
+color: #FFFFFF;
+
+}
+.bigb3{
+    position: absolute;
+width: 1197px;
+height: 375px;
+left: 95px;
+top: 2014px;
+
+opacity: 0.5;
+border: 1px solid #FFFFFF;
+
+}
+.bigb3Cont{
+    position: absolute;
+width: 933.22px;
+height: 23.5px;
+left: 164.94px;
+top: 2039.04px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 12px;
+/* or 67% */
+
+letter-spacing: 1px;
+
+color: #FFFFFF;
+
+}
+
+.bigb3Line{
+    position: absolute;
+width: 1199px;
+height: 0px;
+left: 93px;
+top: 2073.53px;
+
+opacity: 0.2;
+border: 1px solid #FFFFFF;
+
+}
+.bigb3Que{
+    position: absolute;
+height: 28px;
+left: 11.32%;
+right: 56.29%;
+top: calc(50% - 28px/2 - 92.5px);
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 140%;
+/* identical to box height, or 28px */
+
+
+color: #FFFFFF;
+
+}
+.bigb3Content{
+    position: absolute;
+height: 78px;
+left: 11.32%;
+right: 30.84%;
+top: calc(50% - 78px/2 - 27.5px);
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 144%;
+/* or 26px */
+
+
+color: #FFFFFF;
+
+opacity: 0.7;
+}
+.bigb3Line2{
+    position: absolute;
+width: 1063px;
+height: 0px;
+left: 163px;
+top: 2260px;
+
+border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.bigb3cont2{
+    position: absolute;
+height: 56px;
+left: 11.32%;
+right: 31.97%;
+top: calc(50% - 56px/2 + 112.5px);
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 140%;
+/* or 28px */
+
+
+color: #FFFFFF;
+
+}
+.big2M{
+    position: absolute;
+height: 90px;
+left: 80.62%;
+right: 17.29%;
+top: calc(50% - 90px/2 - 89.5px);
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 300;
+font-size: 58px;
+line-height: 90px;
+
+color: #FFFFFF;
+
+}
+.big2P{
+    position: absolute;
+height: 90px;
+left: 80.62%;
+right: 17.21%;
+top: calc(50% - 90px/2 + 114.5px);
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 300;
+font-size: 58px;
+line-height: 90px;
+
+color: #FFFFFF;
+
+}
+.big3P{
+    position: absolute;
+height: 90px;
+left: 80.62%;
+right: 17.21%;
+top: calc(50% - 90px/2 - 321.5px);
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 300;
+font-size: 58px;
+line-height: 90px;
+
+color: #FFFFFF;
+}
+.big3M{
+    position: absolute;
+height: 90px;
+left: 80.62%;
+right: 17.29%;
+top: calc(50% - 90px/2 - 525.5px);
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 300;
+font-size: 58px;
+line-height: 90px;
+
+color: #FFFFFF;
+
+}
+
+
+.buyDiv{
+    position: absolute;
+    width: 1197px;
+    height: 515px;
+    left: 95px;
+    top: 2450px;
+    
+    opacity: 0.5;
+    border: 1px solid #FFFFFF;
+    
+
+}
+
+.buyQ{
+    position: absolute;
+width: 933.22px;
+height: 23.5px;
+left: 164.94px;
+top: 2475.04px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 12px;
+/* or 67% */
+
+letter-spacing: 1px;
+
+color: #FFFFFF;
+
+}
+
+.buyL{
+    position: absolute;
+width: 1199px;
+height: 0px;
+left: 93px;
+top: 2509.53px;
+
+opacity: 0.2;
+border: 1px solid #FFFFFF;
+}
+
+.buyR{
+    position: absolute;
+    width: 394px;
+    height: 312px;
+    left: 163px;
+    top: 2581px;
+    
+    opacity: 0.5;
+    border: 1px solid #FFFFFF;
+}
+
+.buyQ2{
+    position: absolute;
+height: 28px;
+left: 41.81%;
+right: 25.6%;
+top: calc(50% - 28px/2 + 361.5px);
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 140%;
+/* identical to box height, or 28px */
+
+
+color: #FFFFFF;
+
+}
+.buyP{
+    position: absolute;
+height: 104px;
+left: 41.81%;
+right: 24.24%;
+top: calc(50% - 104px/2 + 439.5px);
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 144%;
+/* or 26px */
+
+
+color: #FFFFFF;
+
+opacity: 0.7;
+}
+.buyL2{
+    position: absolute;
+width: 624px;
+height: 0px;
+left: 602px;
+top: 2724px;
+
+border: 1px solid rgba(255, 255, 255, 0.5);
+}
+.buyP2{
+    position: absolute;
+height: 56px;
+left: 41.81%;
+right: 24.9%;
+top: calc(50% - 56px/2 + 566.5px);
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 140%;
+/* or 28px */
+
+
+color: #FFFFFF;
+}
+.buyL3{
+    position: absolute;
+width: 624px;
+height: 0px;
+left: 602px;
+top: 2852px;
+
+border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.buyP3{
+    position: absolute;
+height: 56px;
+left: 41.81%;
+right: 24.9%;
+top: calc(50% - 56px/2 + 694.5px);
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 140%;
+/* or 28px */
+
+
+color: #FFFFFF;
+}
+ .buyN{
+    position: absolute;
+height: 90px;
+left: 82.49%;
+right: 16.29%;
+top: calc(50% - 90px/2 + 364.5px);
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 300;
+font-size: 58px;
+line-height: 90px;
+
+color: #FFFFFF;
+}
+.buyPlus{
+    position: absolute;
+    height: 90px;
+    left: 82.49%;
+    right: 16.24%;
+    top: calc(50% - 90px/2 + 568.5px);
+    
+    font-family: 'Visby CF';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 58px;
+    line-height: 90px;
+    
+    color: #FFFFFF;
+    
+}
+
+.buyPlus2{
+    position: absolute;
+height: 90px;
+left: 82.49%;
+right: 16.24%;
+top: calc(50% - 90px/2 + 707.5px);
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 300;
+font-size: 58px;
+line-height: 90px;
+
+color: #FFFFFF;
+
+} 
+
+.stay{
+    position: absolute;
+width: 1197px;
+height: 515px;
+left: 97px;
+top: 3034px;
+
+opacity: 0.5;
+border: 1px solid #FFFFFF;
+
+}
+
+.stayL{
+    position: absolute;
+width: 1199px;
+height: 0px;
+left: 95px;
+top: 3093.53px;
+
+opacity: 0.2;
+border: 1px solid #FFFFFF;
+
+}
+.stayHead{
+    position: absolute;
+width: 933.22px;
+height: 23.5px;
+left: 166.94px;
+top: 3059.04px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 12px;
+/* or 67% */
+
+letter-spacing: 1px;
+
+color: #FFFFFF;
+
+}
+
+.stayR{
+    position: absolute;
+width: 342px;
+height: 342px;
+left: 159px;
+top: 3139px;
+
+background: #222222;
+opacity: 0.5;
+}
+
+.stayJoin{
+    position: absolute;
+width: 122px;
+height: 83px;
+left: 223px;
+top: 3204px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 130%;
+/* or 39px */
+
+
+/* white */
+
+color: #FFFFFF;
+
+opacity: 0.5;
+}
+.stayImage{
+    position: absolute;
+    width: 50px;
+    height: 37.5px;
+    left: 223px;
+    top: 3362px;
+    
+    background: url(image.png);
+}
+.stayImgRe{
+    position: absolute;
+width: 47.63px;
+height: 40.56px;
+left: 224.02px;
+top: 3360.14px;
+
+background: #FFFFFF;
+}
+.stayR2{
+    box-sizing: border-box;
+
+position: absolute;
+width: 342px;
+height: 342px;
+left: 517px;
+top: 3139px;
+
+background: #2F2F2F;
+opacity: 0.6;
+border: 1px solid #FFFFFF;
+}
+
+.stayshare{
+    position: absolute;
+width: 91px;
+height: 70px;
+left: 578px;
+top: 3204px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 116%;
+/* or 35px */
+
+
+/* white */
+
+color: #FFFFFF;
+
+}
+.stayFb{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 578px;
+    top: 3362px;
+    
+}
+.stayTw{
+    position: absolute;
+width: 40px;
+height: 40px;
+left: 658px;
+top: 3362px;
+
+opacity: 0.5;
+}
+.stayIn{
+    position: absolute;
+width: 40px;
+height: 40px;
+left: 738px;
+top: 3362px;
+
+opacity: 0.5;
+}
+.divOn{
+    position: absolute;
+width: 342px;
+height: 342px;
+left: 875px;
+top: 3139px;
+
+background: #222222;
+opacity: 0.5;
+}
+.divEx{
+    position: absolute;
+width: 139px;
+height: 83px;
+left: 939px;
+top: 3204px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 130%;
+/* or 39px */
+
+
+/* white */
+
+color: #FFFFFF;
+
+opacity: 0.5;
+}
+
+ .sabka{
+    position: absolute;
+left: 67%;
+right: 3.15%;
+top: 77%;
+bottom: 50%;
+
+
+
+}
+ .grow{
+    position: absolute;
+left: 69.5%;
+right: 2.09%;
+top: 76.7%;
+bottom: 18.75%;
+}
+.eclipse img{
+    position: absolute;
+left: 93%;
+right: 7.99%;
+top: 3.2524444%;
+bottom: 19.77%;
+border-radius: 20px;
+background: #4BB625;
+}
+.divhuman img{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    left: 91.34%;
+    right: 7.99%;
+    top: 3.42%;
+    bottom: 19.77%;
+    size: 3px;
+    background: #FFFFFF;
+    border-radius: 20px;
+}
+.mainline{position: absolute;
+    width: 1327px;
+    height: 0.1px;
+    left: 58px;
+    top: 3618px;
+    background: rgb(124, 121, 121);
+    }
+    .mainCont{
+        position: absolute;
+width: 285px;
+height: 44px;
+left: 94px;
+top: 3698px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 44px;
+/* identical to box height, or 157% */
+
+
+color: #FFFFFF;
+
+    }
+
+.divArr{
+    position: absolute;
+width: 24.48px;
+height: 23.48px;
+left: 431.8px;
+top: 3710.48px;
+
+background: #232a35;
+transform: matrix(1, 0, 0, -1, 0, 0);
+border-radius: 20px;
+padding-left: 10px;
+}
+.divArr2{
+position: absolute;
+width: 24.7px;
+height: 23px;
+left: 484.13px;
+top: 3710.49px;
+background: #232a35;
+transform: matrix(1, 0, 0, -1, 0, 0);
+border-radius: 20px;
+padding-left: 10px;
+
+}
+.divCard{
+    position: absolute;
+width: 286.92px;
+height: 330.25px;
+left: 92.95px;
+top: 3767.02px;
+/* border-style: solid;
+border-color: white; */
+background: #121212;
+border-radius: 16.6285px;
+
+}
+.cardImage{
+    position: absolute;
+    width: 286.92px;
+    height: 330.25px;
+    left:108px;
+    top: 3775.02px;
+    border-radius: 16.6285px;
+    
+}
+.cardVector{
+    position: absolute;
+width: 33.26px;
+height: 33.26px;
+left: 107px;
+
+right: 1299.24px;
+bottom: 404.71;
+top: 3979.4px;
+}
+.cardText{
+    position: absolute;
+width: 58px;
+height: 19px;
+left: 157.39px;
+top: 3979.4px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 600;
+font-size: 12.4714px;
+line-height: 19px;
+
+color: #FFFFFF;
+
+}
+.cardOwned{
+    position: absolute;
+width: 130px;
+height: 17px;
+left: 157.39px;
+top: 3999.13px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 400;
+font-size: 11.0857px;
+line-height: 17px;
+
+color: #EBEBEB;
+
+}
+.cardCont{
+    position: absolute;
+width: 257.74px;
+height: 45.04px;
+left: 107.5px;
+top: 4038.79px;
+
+background: #080808;
+border-radius: 11.0857px;
+
+}
+ .cardPrice{
+    position: absolute;
+width: 90px;
+height: 14px;
+left: 125.52px;
+top:4054.03px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 500;
+font-size: 9.69998px;
+line-height: 14px;
+
+color: #FFFFFF;
+}
+
+.cardButton{
+    position: absolute;
+    width: 79.68px;
+    height: 29.79px;
+    left: 276.56px;
+    top: 4046.41px;
+    
+    background: radial-gradient(86.07% 145.35% at 28.05% 86.07%, #3E67FF 0%, #E47298 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+    border-radius: 75.4456px;
+}
+.cardBuy{
+    position: absolute;
+width: 38px;
+height: 14px;
+left: 297.6px;
+top: 4054.36px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 700;
+font-size: 9.69998px;
+line-height: 14px;
+
+color: #FFFFFF;
+}
+
+.divCard2{
+    position: absolute;
+width: 286.92px;
+height: 330.25px;
+left: 408.08px;
+top: 3767.02px;
+
+background: #121212;
+border-radius: 16.6285px;
+}
+.divCard2 img{
+    margin-left: 14px;
+    margin-top: 10px;
+}
+.cardVector2{
+    position: absolute;
+width: 33.26px;
+height: 33.26px;
+left: 1px;
+top: 212.01px;
+
+background: url(.jpg);
+}
+
+.cardText2{
+    position: absolute;
+width: 58px;
+height: 19px;
+left: 64.43px;
+top: 212.01px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 600;
+font-size: 12.4714px;
+line-height: 19px;
+
+color: #FFFFFF;
+}
+.cardown2{
+    position: absolute;
+width: 130px;
+height: 17px;
+left: 64.43px;
+top: 232.1px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 400;
+font-size: 11.0857px;
+line-height: 17px;
+
+color: #EBEBEB;
+}
+
+.cardCont2{
+    position: absolute;
+width: 257.74px;
+height: 45.04px;
+left: 14.55px;
+top: 271.76px;
+
+background: #080808;
+border-radius: 11.0857px;
+}
+.cardPrice2{
+    position: absolute;
+width: 90px;
+height: 14px;
+left: 32.56px;
+top: 287.01px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 500;
+font-size: 9.69998px;
+line-height: 14px;
+
+color: #FFFFFF;
+
+}
+
+.cardButton2{
+    position: absolute;
+width: 79.68px;
+height: 29.79px;
+left: 183.61px;
+top: 279.39px;
+
+background: radial-gradient(86.07% 145.35% at 28.05% 86.07%, #3E67FF 0%, #E47298 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+border-radius: 75.4456px;
+
+}
+
+.cardBuy2{
+    position: absolute;
+width: 38px;
+height: 14px;
+left: 204.64px;
+top: 287.33px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 700;
+font-size: 9.69998px;
+line-height: 14px;
+
+color: #FFFFFF;
+}
+
+.divCard3{
+    position: absolute;
+width: 286.92px;
+height: 330.25px;
+left: 723.2px;
+top: 3767.02px;
+
+background: #121212;
+border-radius: 16.6285px;
+}
+.cardImage3{
+    position: absolute;
+width: 257.74px;
+height: 175.29px;
+left: 14.55px;
+top: 14.55px;
+
+background: url(.jpg);
+border-radius: 11.0857px;
+}
+.cardVector3{
+    position: absolute;
+width: 33.26px;
+height: 33.26px;
+left: 14.55px;
+top: 212.01px;
+
+background: url(.jpg);
+}
+
+.cardText3{
+    position: absolute;
+width: 58px;
+height: 19px;
+left: 64.43px;
+top: 212.01px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 600;
+font-size: 12.4714px;
+line-height: 19px;
+
+color: #FFFFFF;
+
+}
+.cardown3{
+    position: absolute;
+width: 130px;
+height: 17px;
+left: 64.43px;
+top: 232.1px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 400;
+font-size: 11.0857px;
+line-height: 17px;
+
+color: #EBEBEB;
+
+}
+
+.cardCont3{
+    position: absolute;
+width: 257.74px;
+height: 45.04px;
+left: 14.55px;
+top: 271.76px;
+
+background: #080808;
+border-radius: 11.0857px;
+
+}
+
+.cardPrice3{
+    position: absolute;
+width: 90px;
+height: 14px;
+left: 32.56px;
+top: 287.01px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 500;
+font-size: 9.69998px;
+line-height: 14px;
+
+color: #FFFFFF;
+
+}
+.cardButton3{
+    position: absolute;
+width: 79.68px;
+height: 29.79px;
+left: 183.6px;
+top: 279.39px;
+
+background: radial-gradient(86.07% 145.35% at 28.05% 86.07%, #3E67FF 0%, #E47298 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+border-radius: 75.4456px;
+
+}
+
+.cardBuy3{
+    position: absolute;
+width: 38px;
+height: 14px;
+left: 204.64px;
+top: 287.33px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 700;
+font-size: 9.69998px;
+line-height: 14px;
+
+color: #FFFFFF;
+
+}
+
+.divCard4{
+    position: absolute;
+width: 286.92px;
+height: 330.25px;
+left: 1038.34px;
+top: 3767.02px;
+
+background: #121212;
+border-radius: 16.6285px;
+}
+.cardImage4{
+    position: absolute;
+width: 257.74px;
+height: 175.29px;
+left: 14.55px;
+top: 14.55px;
+
+background: url(.jpg);
+border-radius: 11.0857px;
+}
+.cardVector4{
+    position: absolute;
+width: 33.26px;
+height: 33.26px;
+left: 14.55px;
+top: 212.01px;
+
+background: url(.jpg);
+}
+.cardText4{
+    position: absolute;
+width: 58px;
+height: 19px;
+left: 64.43px;
+top: 212.01px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 600;
+font-size: 12.4714px;
+line-height: 19px;
+
+color: #FFFFFF;
+
+}
+.cardown4{
+    position: absolute;
+width: 130px;
+height: 17px;
+left: 64.43px;
+top: 232.1px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 400;
+font-size: 11.0857px;
+line-height: 17px;
+
+color: #EBEBEB;
+}
+.cardCont4{
+    position: absolute;
+width: 257.74px;
+height: 45.04px;
+left: 14.55px;
+top: 271.76px;
+
+background: #080808;
+border-radius: 11.0857px;
+}
+
+.cardPrice4{
+    position: absolute;
+width: 90px;
+height: 14px;
+left: 32.57px;
+top: 287.01px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 500;
+font-size: 9.69998px;
+line-height: 14px;
+
+color: #FFFFFF;
+
+}
+.cardButton4{
+    position: absolute;
+width: 79.68px;
+height: 29.79px;
+left: 183.6px;
+top: 279.39px;
+
+background: radial-gradient(86.07% 145.35% at 28.05% 86.07%, #3E67FF 0%, #E47298 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+border-radius: 75.4456px;
+}
+
+.cardBuy4{
+    position: absolute;
+width: 38px;
+height: 14px;
+left: 204.64px;
+top: 287.33px;
+
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 700;
+font-size: 9.69998px;
+line-height: 14px;
+
+color: #FFFFFF;
+
+}
+.viewMore{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 208px;
+    height: 54px;
+    left: 616px;
+    top: 4161px;
+    
+    border: 1px solid #FFFFFF;
+    border-radius: 27px;
+}
+.viewContent{
+    position: absolute;
+width: 98px;
+height: 12px;
+left: 671px;
+top: 4182px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 12px;
+/* identical to box height, or 100% */
+
+letter-spacing: 1px;
+
+color: #FFFFFF;
+}
+
+.about{
+    position: absolute;
+width: 124px;
+height: 25px;
+left: 108px;
+top: 4320px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+opacity: 0.4;
+}
+.term{
+    position: absolute;
+width: 124px;
+height: 25px;
+left: 190.98px;
+top: 4320px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+opacity: 0.4;
+}
+.privacy{
+    position: absolute;
+width: 124px;
+height: 25px;
+left: 319.96px;
+top: 4320px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+opacity: 0.4;
+}
+.knowledge{
+    position: absolute;
+width: 124px;
+height: 25px;
+left: 458.96px;
+top: 4320px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+opacity: 0.4;
+}
+.customer{
+    position: absolute;
+width: 124px;
+height: 25px;
+left: 619.93px;
+top: 4320px;
+
+font-family: 'Visby CF';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+opacity: 0.4;
+}
